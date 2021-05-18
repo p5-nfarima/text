@@ -1,4 +1,4 @@
-https://github.com/p5-nfarima/text/blob/main/Anger%20management%20classes%20for%20your%20cat.mp4?raw=true
-https://github.com/p5-nfarima/text/blob/main/How%20to%20be%20a%20good%20dog%20owner%20on%20a%20rainy%20day%3F.mp4?raw=true
-https://github.com/p5-nfarima/text/blob/main/How%20to%20teach%20your%20cat%20fishing%20and%20scratching%20your%20$3k%20MacBook%20display.mp4?raw=true
-https://github.com/p5-nfarima/text/blob/main/How%20to%20teach%20your%20leopard%20about%20the%20ups%20and%20downs%20of%20gravity%20and%20friction.mp4?raw=true
+https://raw.githubusercontent.com/p5-nfarima/text/main/Anger%20management%20classes%20for%20your%20cat.mp4
+https://raw.githubusercontent.com/p5-nfarima/text/main/How%20to%20be%20a%20good%20dog%20owner%20on%20a%20rainy%20day%3F.mp4
+https://raw.githubusercontent.com/p5-nfarima/text/main/How%20to%20teach%20your%20cat%20fishing%20and%20scratching%20your%20$3k%20MacBook%20display.mp4
+https://raw.githubusercontent.com/p5-nfarima/text/main/How%20to%20teach%20your%20leopard%20about%20the%20ups%20and%20downs%20of%20gravity%20and%20friction.mp4
